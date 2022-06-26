@@ -99,7 +99,7 @@ public class ForDongusu {
         }
         var kemal = "Kemal";
         long numara1 = 1;
-        var numara2 = 2;
+        var numara2 = 5;
         var numara3 =  numara1;
     }
 
